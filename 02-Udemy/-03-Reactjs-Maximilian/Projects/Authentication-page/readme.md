@@ -6,7 +6,7 @@
 ![app](https://user-images.githubusercontent.com/91760639/183232776-a3cf7ae5-6b56-4134-a483-02f7edf8e197.jpg)
 
 ## 2-After choosing create account
-![After choosing create account](https://user-images.githubusercontent.com/91760639/183232927-098600c5-d8b3-4d96-9d15-bf5d49a3142e.jpg)
+![After choosing create account](https://user-images.githubusercontent.com/91760639/183232991-aa2154d4-f5a3-476b-8dbb-6a26478dfc9c.jpg)
 
 ## 3-After making new account
 ![After making now account](https://user-images.githubusercontent.com/91760639/183232787-170dffb3-0eaa-45ca-9ed0-1cc5fd092a0e.jpg)
