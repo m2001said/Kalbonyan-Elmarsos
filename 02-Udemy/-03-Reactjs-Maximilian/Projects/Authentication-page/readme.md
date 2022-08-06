@@ -11,7 +11,7 @@
 
 
 ## 3-our new account data in firebase
-![our new account data in firebase](https://user-images.githubusercontent.com/91760639/183232804-5bb51621-6645-4b37-a5c4-f6aea2757902.jpg)
+![2](https://user-images.githubusercontent.com/91760639/183232850-babca786-81a3-4e0c-9a59-f7255e205f43.jpg)
 
 
 
