@@ -100,7 +100,7 @@
 ### Animation-app (S24)
 
 - [Project-code](./Projects/animation-app)
-- [Live Demo]()
+- [Live Demo](https://section24.netlify.app/)
 
 ### Products-app(S25)
 
