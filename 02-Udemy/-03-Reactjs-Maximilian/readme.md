@@ -115,7 +115,7 @@
 ### ingredients-app(S28)
 
 - [Project-code](./Projects/ingredients-app/)
-- [Live Demo]()
+- [Live Demo](https://section28.netlify.app/)
 
 ### Section 29 Project
 
