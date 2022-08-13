@@ -7,7 +7,7 @@
 - [Project-code](./Projects/Task-Manager-API)
 ### Weather App
 - [Project-code](./Projects/Weather-App)
-- [Live Demo]()
+- [Live Demo](https://mosaid-adb-weather-app.herokuapp.com/)
 ### Chat App
 - [Project-code](./Projects/Chat-App)
 - [Live Demo]()
