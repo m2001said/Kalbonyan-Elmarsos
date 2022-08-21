@@ -16,4 +16,7 @@ By the end of this course, you'll understand AWS services and how they are lever
 
 ## I attached my notes : The course has a lot of theoretical content about a lot of services which you will find in the pdf
 
+### [Certificate Link](https://verify.acloud.guru/13A0B9E5562A)
+
 ![1](https://user-images.githubusercontent.com/91760639/185778913-3eb65ba6-8694-45fd-b5f9-f5781ba00f8a.jpg)
+
