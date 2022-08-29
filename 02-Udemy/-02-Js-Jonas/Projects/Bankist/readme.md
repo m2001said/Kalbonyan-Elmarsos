@@ -1,9 +1,11 @@
 # At the first : you should know the user and password for access the page 
 ------------
-user name 1  : js  &  pin : 1111 ---> this is for Jonas Schmedtmann
-user name 2  : jd  &  pin : 2222 ---> this is for Jessica Davis
-user name 3  : st  &  pin : 3333 ---> this is for Steven Thomas Williams
-user name 4  : ms  &  pin : 4444 ---> this is for Mohamed Said
+
+user name 1  : js  &  pin : 1111 ---> this is for Jonas Schmedtmann <br>
+user name 2  : jd  &  pin : 2222 ---> this is for Jessica Davis  <br>
+user name 3  : st  &  pin : 3333 ---> this is for Steven Thomas Williams  <br>
+user name 4  : ms  &  pin : 4444 ---> this is for Mohamed Said  <br> 
+
 -----------
 login with my account
 -----------
