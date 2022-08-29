@@ -48,10 +48,10 @@
 ![90%](https://progress-bar.dev/90/?title=Done)
 <br />
 ## JavaScript - Select one of these 2 courses to complete
-- [ ]  `Done` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](./02-Udemy/-02-Js-Jonas)
+- [x]  `Done` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](./02-Udemy/-02-Js-Jonas)
 
 ## ReactJs - Select one of these 2 courses to complete
-- [ ]  `Done` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](./02-Udemy/-03-Reactjs-Maximilian)
+- [x]  `Done` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](./02-Udemy/-03-Reactjs-Maximilian)
 
 ## NodeJs - Select one of these 2 courses to complete
 - [x] `Done` `35h` - 15 - [The Complete Node.js Developer Course (3rd Edition)](/02-Udemy/-04-Nodejs-Andrew)
@@ -78,4 +78,11 @@
 
 # Learn How to Make serverless web applications
 ![0%](https://progress-bar.dev/0/?title=Done)
-- [ ] `in progress` - 18 - [Serverless Stack (SST)](04-Serverless-Stack-Project/)
+- [x] `in progress` - 18 - [Serverless Stack (SST)](04-Serverless-Stack-Project/)
+
+- - - - 
+[My portfolio link](https://m2001said.github.io/MohamedSaidPortfolio/)
+[My CV link](https://www.notion.so/Mohamed-Said-Abdallah-4e6e5b071ab04d159b2980d2929dea60)
+- - - - 
+
+
