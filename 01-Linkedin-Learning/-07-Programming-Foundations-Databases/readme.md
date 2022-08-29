@@ -15,4 +15,7 @@
 - Modifying data
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/7c4e1cadd3bf4f1d51277b9e8fc39a7963c12a77b2f67e2a0b66adf1e4d88a1d?trk=share_certificate)
+
+
+![Screenshot 2022-08-29 123955](https://user-images.githubusercontent.com/91760639/187191894-d40b0751-d366-4da8-b7b6-9eabe88dfd31.jpg)
