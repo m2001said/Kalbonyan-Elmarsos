@@ -80,9 +80,11 @@
 ![0%](https://progress-bar.dev/0/?title=Done)
 - [x] `in progress` - 18 - [Serverless Stack (SST)](04-Serverless-Stack-Project/)
 
-- - - - 
+-------------
 [My portfolio link](https://m2001said.github.io/MohamedSaidPortfolio/)
+-------------
+-------------
 [My CV link](https://www.notion.so/Mohamed-Said-Abdallah-4e6e5b071ab04d159b2980d2929dea60)
-- - - - 
+-------------
 
 
