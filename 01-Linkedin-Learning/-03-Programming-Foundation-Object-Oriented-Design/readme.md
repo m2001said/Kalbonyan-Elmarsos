@@ -15,4 +15,6 @@
 - Developing software with object-oriented design principles
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/db483d1c20e4fa5a0ea54e05e22715d8875a2c690cb0a1a8ccefff222c8c57fd?trk=share_certificate)
+
+![Screenshot 2022-08-29 124044](https://user-images.githubusercontent.com/91760639/187186484-7716d989-35c4-4800-b915-f092c46875db.jpg)
