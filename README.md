@@ -45,7 +45,7 @@
 
 <span id="MERN"></span>
 # MERN Stack
-![90%](https://progress-bar.dev/90/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 <br />
 ## JavaScript - Select one of these 2 courses to complete
 - [x]  `Done` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](./02-Udemy/-02-Js-Jonas)
@@ -77,7 +77,7 @@
 
 
 # Learn How to Make serverless web applications
-![0%](https://progress-bar.dev/0/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 - [x] `in progress` - 18 - [Serverless Stack (SST)](04-Serverless-Stack-Project/)
 
 -------------
