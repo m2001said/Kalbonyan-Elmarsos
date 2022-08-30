@@ -33,7 +33,7 @@
 ### Mapty
 
 - [Project-code](./Projects/Mapty)
-- [Live Demo]()
+- [Live Demo](https://mapty-js-msaid.netlify.app/)
 
 ### Forkify
 
