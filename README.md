@@ -84,11 +84,11 @@
 [My portfolio code](https://github.com/m2001said/MohamedSaidPortfolio)
 
 <br>
--------------
+
 [My portfolio link](https://m2001said.github.io/MohamedSaidPortfolio/)
 
 <br>
--------------
+
 [My CV link](https://www.notion.so/Mohamed-Said-Abdallah-4e6e5b071ab04d159b2980d2929dea60)
 
 
