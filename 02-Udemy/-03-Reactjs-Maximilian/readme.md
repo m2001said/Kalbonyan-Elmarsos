@@ -47,10 +47,7 @@
 ### Section 13 Project
 
 - [Project-code](./Projects/S13-project)
-- [Live Demo]()
-
-#من اول  هنا لتحت خلصان ..لما تخلص اعمل اللي فوق ان شاء الله
-
+- [Live Demo](https://section13reactmosaid.netlify.app/)
 
 ### movies app(S14)
 
