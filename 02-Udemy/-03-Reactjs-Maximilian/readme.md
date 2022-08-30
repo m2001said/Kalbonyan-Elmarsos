@@ -42,7 +42,7 @@
 ### Section 12 Project
 
 - [Project-code](./Projects/S12-project)
-- [Live Demo]()
+- [Live Demo](https://section12reactmosaid.netlify.app/)
  
 ### Section 13 Project
 
