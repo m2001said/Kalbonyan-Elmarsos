@@ -10,9 +10,9 @@
 
   <br/>
 
-- [Section 3 Project Live Demo]()
-- [Section 4 Project Live Demo]()
-- [Section 5 Project Live Demo]()
+- [Section 3 Project Live Demo](https://secotion3react.netlify.app/)
+- [Section 4 Project Live Demo](https://secction4react.netlify.app/)
+- [Section 5 Project Live Demo](https://secction5react.netlify.app/)
 
 ### goals app (S6-S7)
 
