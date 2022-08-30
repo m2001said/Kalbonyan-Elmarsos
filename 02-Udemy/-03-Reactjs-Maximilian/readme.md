@@ -21,8 +21,8 @@
 
 <br/>
 
-- [Section 6 Project Live Demo]()
-- [Section 7 Project Live Demo]()
+- [Section 6&7 Project Live Demo](https://section6reactmosaid.netlify.app/)
+
 
 ### Section 8-9 Project
 
