@@ -38,7 +38,7 @@
 ### Forkify
 
 - [Project-code](./Projects/Forkify)
-- [Live Demo]()
+- [Live Demo](https://cerulean-fenglisu-043b25.netlify.app/)
 
 ---
 
