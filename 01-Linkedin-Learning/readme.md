@@ -4,5 +4,5 @@
 
 ## you can also duplicate it at your page 
 
-[LinkedIn Courses](https://handsomely-case-a96.notion.site/Learn-Programing-Fundamentals-c49af9c621b0431895b297ecfa46debb)
+[LinkedIn Notes on NOtion](https://handsomely-case-a96.notion.site/Learn-Programing-Fundamentals-c49af9c621b0431895b297ecfa46debb)
 
