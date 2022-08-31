@@ -1,4 +1,4 @@
-# Final project : which i have a lot of problems in it 
+# Final project 
 
 ## we use this API which you can use it and make your project : [APILink]( https://forkify-api.herokuapp.com/v2)
 
