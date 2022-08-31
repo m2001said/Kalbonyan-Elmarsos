@@ -83,11 +83,11 @@
 
 # My portfolio & CV
 
-[My portfolio code](https://github.com/m2001said/MohamedSaidPortfolio)
+[My portfolio code](./My_Portfolio)
 
 <br>
 
-[My portfolio link](https://m2001said.github.io/MohamedSaidPortfolio/)
+[My portfolio link](https://msaidportfolio.netlify.app/)
 
 <br>
 
